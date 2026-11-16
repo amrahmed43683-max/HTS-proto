@@ -1,0 +1,8 @@
+{
+  "name": "المنصة الصحية المتكاملة — HTS",
+  "description": "المنصة الصحية المتكاملة مع تخزين محلي كامل عبر IndexedDB وتفضيلات Local Storage والنسخ الاحتياطي JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
